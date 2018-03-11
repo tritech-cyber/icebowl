@@ -1,0 +1,23 @@
+#B35050  red
+#50B350 green
+#5050B3  blue
+#B350B3 magenta
+#B3B350 yellow
+#50B3B3 #cyan
+
+#DC7F32  orange
+#32DC7F green	
+#7F32DC  violet
+
+#DC327F
+#327FDC
+#7FDC32
+
+
+#505050
+#B3B3B3
+
+#FDF6E3 TAN
+#FFEDBF TAN
+
+
